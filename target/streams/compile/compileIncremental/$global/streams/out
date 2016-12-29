@@ -1,0 +1,25 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(C:\Users\Hung\OneDrive\Documents\Fall2015\Cs1331\cs1331\hw-chess-master\src\main\java\boardview\TileView.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\Hung\OneDrive\Documents\Fall2015\Cs1331\cs1331\hw-chess-master\src\main\java\boardview\TileView.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Hung\OneDrive\Documents\Fall2015\Cs1331\cs1331\hw-chess-master\src\main\java\boardview\TileView.java)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Java source to C:\Users\Hung\OneDrive\Documents\Fall2015\Cs1331\cs1331\hw-chess-master\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.556655382 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.06565832 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 0.627093144 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
